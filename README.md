@@ -1,6 +1,6 @@
 # Picdit-Photo-Editor
 
-Picdit - Photo editing web application created using HTML, CSS, PHP and JavaScript. 
+Picdit - Photo editing web application created using HTML, CSS, PHP and JavaScript with the help VS Code and Microsoft Azure. 
 1. This WebApp helps in drawing and editing paintings, photos and pictures. 
 2. You can use various tools available in the project to do various tasks.
 
